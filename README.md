@@ -14,14 +14,14 @@ Undergraduate student at **University of Scholars**.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥧 <a href="https://github.com/sadmandied/git-pie">GitPie! — Cartoon Codebase Bakery</a></h3>
-      <p>Interactive 1930s Cuphead-style rubber-hose cartoon pie visualizer for GitHub repositories. Repositories are baked into colorful pies with crimped crusts, cursor-tracking cartoon eyes, and ragtime sound effects.</p>
+      <h3>🎯 <a href="https://github.com/sadmandied/git-pie">GitPie — Precision Codebase Visualizer</a></h3>
+      <p>Minimalist, high-craft interactive codebase visualizer for GitHub repositories. Features an interactive precision donut chart with dynamic center readouts, multi-perspective breakdown modes (Languages, Folders, Files), and source file inspection.</p>
       <p>
-        <img src="https://img.shields.io/badge/Canvas-Rubber--Hose%20Physics-f1c40f?style=flat-square" />
-        <img src="https://img.shields.io/badge/WebAudio-Ragtime%20Synth-d63031?style=flat-square" />
+        <img src="https://img.shields.io/badge/Canvas-Precision%20Donut-1a1614?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero-Dependencies-2e7d32?style=flat-square" />
         <img src="https://img.shields.io/badge/GitHub%20API-v3-0984e3?style=flat-square" />
       </p>
-      <p>🔗 <strong><a href="https://sadmandied.github.io/git-pie/">Live Interactive Bakery ↗</a></strong></p>
+      <p>🔗 <strong><a href="https://sadmandied.github.io/git-pie/">Live Interactive Visualizer ↗</a></strong></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/sadmandied/CoworkingSpaceBookingSystem">Coworking Space Booking System</a></h3>
