@@ -14,14 +14,14 @@ Undergraduate student at **University of Scholars**.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏙️ <a href="https://github.com/sadmandied/git-city-3d">GitCity 3D</a></h3>
-      <p>Interactive 3D WebGL cyberpunk metropolis visualizer. Converts any GitHub repository into an explorable city with procedural skyscrapers, district platforms, and a chronological commit time-machine.</p>
+      <h3>🥧 <a href="https://github.com/sadmandied/git-city-3d">GitPie! — Cartoon Codebase Bakery</a></h3>
+      <p>Interactive 1930s Cuphead-style rubber-hose cartoon pie visualizer for GitHub repositories. Repositories are baked into colorful pies with crimped crusts, cursor-tracking cartoon eyes, and ragtime sound effects.</p>
       <p>
-        <img src="https://img.shields.io/badge/Three.js-WebGL-00f3ff?style=flat-square" />
-        <img src="https://img.shields.io/badge/WebAudio-Procedural-ff007f?style=flat-square" />
-        <img src="https://img.shields.io/badge/GitHub%20API-v3-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Canvas-Rubber--Hose%20Physics-f1c40f?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebAudio-Ragtime%20Synth-d63031?style=flat-square" />
+        <img src="https://img.shields.io/badge/GitHub%20API-v3-0984e3?style=flat-square" />
       </p>
-      <p>🔗 <strong><a href="https://sadmandied.github.io/git-city-3d/">Live Interactive Demo ↗</a></strong></p>
+      <p>🔗 <strong><a href="https://sadmandied.github.io/git-city-3d/">Live Interactive Bakery ↗</a></strong></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/sadmandied/CoworkingSpaceBookingSystem">Coworking Space Booking System</a></h3>
