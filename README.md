@@ -23,16 +23,6 @@ Undergraduate student at **University of Scholars**.
       </p>
       <p>🔗 <strong><a href="https://sadmandied.github.io/git-pie/">Live Interactive Visualizer ↗</a></strong></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏢 <a href="https://github.com/sadmandied/CoworkingSpaceBookingSystem">Coworking Space Booking System</a></h3>
-      <p>Full-stack enterprise smart coworking & desk reservation ecosystem featuring interactive floor maps, automated check-in/out, role-based access control, and dynamic analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vue.js-Frontend-41b883?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square" />
-      </p>
-      <p>🔗 <strong><a href="https://github.com/sadmandied/CoworkingSpaceBookingSystem">Explore Repository ↗</a></strong></p>
-    </td>
   </tr>
 </table>
 
